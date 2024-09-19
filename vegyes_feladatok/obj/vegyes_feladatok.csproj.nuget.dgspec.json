@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
+    "C:\\Users\\balogh.david.laszlo\\Documents\\no\\gyakorlo-feladatok-1-al144\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {
+    "C:\\Users\\balogh.david.laszlo\\Documents\\no\\gyakorlo-feladatok-1-al144\\vegyes_feladatok\\vegyes_feladatok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "projectUniqueName": "C:\\Users\\balogh.david.laszlo\\Documents\\no\\gyakorlo-feladatok-1-al144\\vegyes_feladatok\\vegyes_feladatok.csproj",
         "projectName": "vegyes_feladatok",
-        "projectPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
-        "packagesPath": "C:\\Users\\nemes.tamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\obj\\",
+        "projectPath": "C:\\Users\\balogh.david.laszlo\\Documents\\no\\gyakorlo-feladatok-1-al144\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "packagesPath": "C:\\Users\\balogh.david.laszlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\balogh.david.laszlo\\Documents\\no\\gyakorlo-feladatok-1-al144\\vegyes_feladatok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nemes.tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\balogh.david.laszlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
